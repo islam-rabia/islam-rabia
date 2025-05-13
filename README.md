@@ -2,7 +2,7 @@
 **Front-End Developer**  
 
 📍 **Cairo, Egypt** | 📞 **+201152341782** | 📧 **[rabeaeslam56@gmail.com](mailto:rabeaeslam56@gmail.com)**  
-🔗 [**GitHub**](https://github.com/islam-rabia?tab=repositories) | [**LinkedIn**](https://www.linkedin.com/in/islam-rabea-ibrahim-14bab42a2)  [**Download My CV**](https://acrobat.adobe.com/id/urn:aaid:sc:eu:7d1e6591-dbcb-4a15-ba68-c5ce099a672c)  
+🔗 [**GitHub**](https://github.com/islam-rabia?tab=repositories) | [**LinkedIn**](https://www.linkedin.com/in/islam-rabea-ibrahim-14bab42a2)  [**Download My CV**](https://docs.google.com/document/d/1rg0_Ydhu07RiOT4eG5iub5O4oKspY1dm0r5ZdLnoGCs/edit?usp=drive_link)  
 
 ---
 
