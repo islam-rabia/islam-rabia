@@ -24,7 +24,7 @@ Passionate **Front-End Developer** with expertise in crafting responsive, user-f
 ## 🛠️ **Skills**  
 
 ### 📚 **Technical Skills:**  
-- **Languages:** HTML, CSS, JavaScript  
+- **Languages:** HTML, CSS, JavaScript, React.js, Neext.js
 - **Version Control:** Git, GitHub  
 - **Build Tools:** npm, Webpack, ViteJs, GulpJs, PugJs  
 - **Styling:** Sass, TailwindCSS, CSS-in-JS, Bootstrap  
